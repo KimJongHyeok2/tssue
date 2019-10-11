@@ -1,4 +1,4 @@
-Apache2와 Tomcat 연동 환경에서 Apache에 SSL을 적용하였는데 WebSocket 통신 시 code 400의 오류가 발생하였다. 열심히 해결방법을 찾은 결과 mod_rewrite 모듈을 사용하는 방법이 있었다.
+Apache2와 Tomcat 연동 환경에서 ~~Apache에 SSL을 적용하였는데~~ WebSocket 통신 시 code 400의 오류가 발생하였다. 열심히 해결방법을 찾은 결과 mod_rewrite 모듈을 사용하는 방법이 있었다.
 
 ## mod_rewrite
 URL을 동적으로 전환(redirecting) 및 재작성(rewriting) 할 수 있는 아파치 확장 모듈이다. 사용방법 및 용도가 다양하며 필요에 따라 사용할 경우 매우 유용하다.
