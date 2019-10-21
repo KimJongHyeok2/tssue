@@ -39,5 +39,5 @@ Failed to load https://serverhost.com/: No 'Access-Control-Allow-Origin' header 
 
 ## 레퍼런스
 https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/<br>
-https://zamezzz.tistory.com/137
+https://zamezzz.tistory.com/137<br>
 https://brunch.co.kr/@adrenalinee31/1
