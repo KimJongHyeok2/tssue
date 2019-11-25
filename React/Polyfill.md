@@ -16,3 +16,6 @@ import 'react-app-polyfill/ie11';
 </pre>
 
 react-app-polyfill에 대한 자세한 내용은 <a href="https://github.com/facebook/create-react-app/tree/master/packages/react-app-polyfill">여기서</a> 확인
+
+## 레퍼런스
+https://spectrum.chat/next-js/general/how-to-correctly-add-includes-method-polyfill-for-ie-11~2b68768e-df30-4eec-b783-07b9fedbe7b2
