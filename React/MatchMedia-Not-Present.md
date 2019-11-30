@@ -1,4 +1,4 @@
-IE9 환경에서 history issue를 해결하였더니 또 다른 오류가 발생하였다.
+IE9 환경에서 <a href="https://github.com/KimJongHyeok2/tssue/blob/master/React/IE9-History.md">History API 관련 Issue</a>를 해결하였더니 또 다른 오류가 발생하였다.
 <pre>
 matchMedia not present, legacy browsers require a polyfill
 </pre>
