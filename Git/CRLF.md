@@ -13,7 +13,7 @@ The file will have its original line endings in your working directory.
 
 <ul>
   <li>
-    윈도우 사용자의 경우에 이러한 변환이 항상 실행되도록 하고싶을 때
+    윈도우 사용자의 경우에 이러한 변환이 항상 실행되도록 하고싶을 때 명
 <pre>
 git config --global core.autocrlf true
 </pre>
