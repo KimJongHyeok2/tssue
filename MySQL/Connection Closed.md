@@ -1,4 +1,4 @@
-커뮤니티 사이트를 운영하고 싶었던 작은 소망이 있었기에 <a href="https://github.com/KimJongHyeok2/aps">APS</a> 라는 커뮤니티 사이트를 개발하여 잠시나마 운영해보았다. 역시.... 아무도 이용해주지 않았지만 새로운 사실을 알게되었다.
+커뮤니티 사이트를 운영하고 싶었던 작은 소망이 있었기에 <a href="https://github.com/KimJongHyeok2/aps">APS</a> 라는 커뮤니티 사이트를 개발하여 잠시나마 운영해보았다. 역시.... 아무도 이용해주지 않았지만 새로운 사실을 알게되었다.<br>
 MySQL은 커넥션을 일정 시간 미 사용 시 닫아버린다는 점이다.
 <code>show variable</code> 명령어를 실행했을 때 wait_timeout 값에 해당하는 시간이 지나면 커넥션이 닫힌다고 한다.
 <pre>
