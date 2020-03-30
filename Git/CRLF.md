@@ -31,6 +31,3 @@ git config --global core.safecrlf false
 </pre>
   </li>
 </ul>
-
-## 레퍼런스
-https://blog.jaeyoon.io/2018/01/git-crlf.html
